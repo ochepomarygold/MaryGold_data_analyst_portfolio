@@ -1,1 +1,1 @@
-# MaryGold_data_analyst_portfolio
+# MaryGold_data_project
